@@ -1,0 +1,1 @@
+export { XdvSetCustomPropertiesFromAttributesMixin } from './src/XdvSetCustomPropertiesFromAttributesMixin.js'
